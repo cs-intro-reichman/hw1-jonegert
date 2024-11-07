@@ -10,6 +10,6 @@ public class NumWords {
 		
 
 		
-		System.out.println("hundreds:" + hundreds + "  tens:" + tens + "  ones:" + ones );
+		System.out.println(hundreds + " hundreds, " + tens + " tens, and " + ones + " ones. ");
 	}
 }
